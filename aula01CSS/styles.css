@@ -1,0 +1,14 @@
+h1{
+    background-color: black;
+color: white;
+}
+p{
+background-color: darkblue;
+color: white;
+
+}
+img {
+    width: 100%;
+    height: auto;
+    display: block;
+}

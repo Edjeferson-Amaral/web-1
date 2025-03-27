@@ -1,0 +1,20 @@
+*{
+    color: blue;
+}
+
+.p1{
+    text-align: center;
+    color: red;
+}
+.p2{
+    text-align: center;
+    color: green;
+}
+.p3{
+    text-align: center;
+    color: blue;
+}
+#fonte{
+    font: 24px Arial;
+    color: yellow;
+}
